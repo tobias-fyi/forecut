@@ -1,0 +1,6 @@
+[submodule "detectron2-pipeline"]
+	path = detectron2-pipeline
+	url = git@github.com:tobias-fyi/detectron2-pipeline.git
+[submodule "detectron2"]
+	path = detectron2
+	url = https://github.com/facebookresearch/detectron2
